@@ -22,6 +22,11 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 U
 
 Below is more information about the files in this repository.
 
+# Comments and Suggestions
+
+I welcome your comments and suggestions on the dissertation. Feel free to [contact me directly](http://muninn.net/page.php?t=contact) or make use of the repository wiki here:
+
+[Comments and Suggestions Wiki](https://github.com/kmlawson/phd-dissertation/wiki/Comments-and-Suggestions)
 
 # Raw Folder
 
