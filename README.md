@@ -8,12 +8,12 @@ This dissertation explores the relationship between violence and betrayal in ret
 
 Throughout the territories under Japanese occupation, locally recruited military and police forces comprised the largest category of individuals to face accusations of treason in the aftermath of war, but were also those most likely to be complicit in atrocities. Among the ranks of the disloyal, they were both the most useful as well as the most dangerous to postwar regimes and almost always separated out from other accused collaborators. Their treason was often treated as a disease of the heart which, once cured, allowed them to be deployed once more. Attempts to try them for their betrayal often faced destabilizing political opposition, especially in cases where their wartime actions were carried out in the name of independence from colonial rule, and were almost always reduced in scale to focus on those accused both of treason and atrocities. Marred by the politics of betrayal, the resulting hybrid proceedings failed to achieve a reckoning with wartime massacres and torture.
 
-PDFs of the final version are available in two places. 
-The Open Access version on the Harvard DASH repository can be found here:
-[DASH Entry for PhD Dissertation](http://dash.harvard.edu/handle/1/9795484)
+PDFs of the final version are available in two places.   
+The Open Access version on the Harvard DASH repository can be found here:   
+[DASH Entry for PhD Dissertation](http://dash.harvard.edu/handle/1/9795484)   
 
-The Open Access version on ProQuest can be found here:
-[ProQuest Entry for PhD Dissertation](http://gradworks.umi.com/35/43/3543071.html)
+The Open Access version on ProQuest can be found here:   
+[ProQuest Entry for PhD Dissertation](http://gradworks.umi.com/35/43/3543071.html)   
 
 © 2012 – Konrad Mitchell Lawson
 Some Rights Reserved
