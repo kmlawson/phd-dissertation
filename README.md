@@ -78,6 +78,10 @@ This is what the export to HTML looked like when put through the "textutil" comm
 
 This is the footnote-less conversion from the textutil html to markdown.
 
+### footnotes-only.md
+
+A markdown copy of just the footnotes from the entire dissertation.
+
 ## Note
 
 The dissertation was composed entirely in Scrivener in Mac OS X. In the final days before submission, the entire dissertation was exported to Microsoft Word with some final editing and additions made in the final Word document. I have not re-imported the changed text into Scrivener. Had I done so, the export process for GitHub would have been significantly easier.
