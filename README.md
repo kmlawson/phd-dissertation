@@ -18,7 +18,7 @@ The Open Access version on ProQuest can be found here:
 © 2012 – Konrad Mitchell Lawson
 Some Rights Reserved
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/
+This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License.To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/
 
 Below is more information about the files in this repository.
 
