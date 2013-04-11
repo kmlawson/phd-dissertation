@@ -1,0 +1,368 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="1.7.0-Wroclaw">
+    <title></title>
+    <mapcanvas>
+        <units>degrees</units>
+        <extent>
+            <xmin>106.695641</xmin>
+            <ymin>4.183513</ymin>
+            <xmax>136.779865</xmax>
+            <ymax>21.531255</ymax>
+        </extent>
+        <projections>0</projections>
+        <destinationsrs>
+            <spatialrefsys>
+                <proj4>+proj=longlat +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +no_defs</proj4>
+                <srsid>3452</srsid>
+                <srid>4326</srid>
+                <authid>EPSG:4326</authid>
+                <description>WGS 84</description>
+                <projectionacronym>longlat</projectionacronym>
+                <ellipsoidacronym>WGS84</ellipsoidacronym>
+                <geographicflag>true</geographicflag>
+            </spatialrefsys>
+        </destinationsrs>
+    </mapcanvas>
+    <legend>
+        <legendlayer open="true" checked="Qt::Checked" name="provinces_philippines" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="provinces_philippines20110809150356061" visible="1"/>
+            </filegroup>
+        </legendlayer>
+    </legend>
+    <Composer title="Composer 7" visible="1">
+        <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="true">
+            <Extent ymin="4.215294797298298" xmin="116.8158411651736" ymax="20.42102348320876" xmax="127.7349646651736"/>
+            <LayerSet/>
+            <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+                <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="Lucida Grande,13,-1,5,50,0,0,0,0,0"/>
+            </Grid>
+            <ComposerItem width="188.0379746835443" x="8.491139240506328" y="6.657456076241711" rotation="0" height="279.0784810126582" frame="false" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.906040268456376" positionLock="false">
+                <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+            </ComposerItem>
+        </ComposerMap>
+        <ComposerLabel valign="32" labelText="Map 2: Philippine Supreme Court Rulings on Treason Cases by Province" id="" halign="1" margin="1">
+            <LabelFont description="Minion Pro,16,-1,5,75,0,0,0,0,0"/>
+            <FontColor red="0" blue="0" green="0"/>
+            <ComposerItem width="51.67848101265825" x="149" y="7.544303797468352" rotation="0" height="28.66835443037975" frame="false" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.651006711409396" positionLock="false">
+                <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+            </ComposerItem>
+        </ComposerLabel>
+        <ComposerLegend symbolWidth="7" title="Legend" boxSpace="2" titleFont="Minion Pro,16,-1,5,50,0,0,0,0,0" groupFont="Minion Pro,14,-1,5,50,0,0,0,0,0" layerFont="Minion Pro,12,-1,5,50,0,0,0,0,0" symbolSpace="2" symbolHeight="4" layerSpace="2" iconLabelSpace="2" itemFont="Minion Pro,12,-1,5,50,0,0,0,0,0">
+            <Model autoUpdate="1">
+                <LayerItem layerId="provinces_philippines20110809150356061" text="Number of Cases">
+                    <VectorClassificationItem layerId="provinces_philippines20110809150356061" text="0">
+                        <symbol>
+                            <lowervalue>0</lowervalue>
+                            <uppervalue>0</uppervalue>
+                            <label></label>
+                            <pointsymbol>hard:circle</pointsymbol>
+                            <pointsize>2</pointsize>
+                            <pointsizeunits>pixels</pointsizeunits>
+                            <outlinecolor red="0" blue="0" green="0"/>
+                            <outlinestyle>SolidLine</outlinestyle>
+                            <outlinewidth>0.26</outlinewidth>
+                            <fillcolor red="255" blue="255" green="255"/>
+                            <fillpattern>SolidPattern</fillpattern>
+                            <texturepath></texturepath>
+                        </symbol>
+                    </VectorClassificationItem>
+                    <VectorClassificationItem layerId="provinces_philippines20110809150356061" text="1 - 3">
+                        <symbol>
+                            <lowervalue>1</lowervalue>
+                            <uppervalue>3</uppervalue>
+                            <label></label>
+                            <pointsymbol>hard:circle</pointsymbol>
+                            <pointsize>2</pointsize>
+                            <pointsizeunits>pixels</pointsizeunits>
+                            <outlinecolor red="0" blue="0" green="0"/>
+                            <outlinestyle>SolidLine</outlinestyle>
+                            <outlinewidth>0.26</outlinewidth>
+                            <fillcolor red="221" blue="221" green="221"/>
+                            <fillpattern>SolidPattern</fillpattern>
+                            <texturepath></texturepath>
+                        </symbol>
+                    </VectorClassificationItem>
+                    <VectorClassificationItem layerId="provinces_philippines20110809150356061" text="4 - 7">
+                        <symbol>
+                            <lowervalue>4</lowervalue>
+                            <uppervalue>7</uppervalue>
+                            <label></label>
+                            <pointsymbol>hard:circle</pointsymbol>
+                            <pointsize>2</pointsize>
+                            <pointsizeunits>pixels</pointsizeunits>
+                            <outlinecolor red="0" blue="0" green="0"/>
+                            <outlinestyle>SolidLine</outlinestyle>
+                            <outlinewidth>0.26</outlinewidth>
+                            <fillcolor red="156" blue="156" green="156"/>
+                            <fillpattern>SolidPattern</fillpattern>
+                            <texturepath></texturepath>
+                        </symbol>
+                    </VectorClassificationItem>
+                    <VectorClassificationItem layerId="provinces_philippines20110809150356061" text="8 - 13">
+                        <symbol>
+                            <lowervalue>8</lowervalue>
+                            <uppervalue>13</uppervalue>
+                            <label></label>
+                            <pointsymbol>hard:circle</pointsymbol>
+                            <pointsize>2</pointsize>
+                            <pointsizeunits>pixels</pointsizeunits>
+                            <outlinecolor red="0" blue="0" green="0"/>
+                            <outlinestyle>SolidLine</outlinestyle>
+                            <outlinewidth>0.26</outlinewidth>
+                            <fillcolor red="76" blue="76" green="76"/>
+                            <fillpattern>SolidPattern</fillpattern>
+                            <texturepath></texturepath>
+                        </symbol>
+                    </VectorClassificationItem>
+                    <VectorClassificationItem layerId="provinces_philippines20110809150356061" text="14 - 28">
+                        <symbol>
+                            <lowervalue>14</lowervalue>
+                            <uppervalue>28</uppervalue>
+                            <label></label>
+                            <pointsymbol>hard:circle</pointsymbol>
+                            <pointsize>2</pointsize>
+                            <pointsizeunits>pixels</pointsizeunits>
+                            <outlinecolor red="0" blue="0" green="0"/>
+                            <outlinestyle>SolidLine</outlinestyle>
+                            <outlinewidth>0.26</outlinewidth>
+                            <fillcolor red="0" blue="0" green="0"/>
+                            <fillpattern>SolidPattern</fillpattern>
+                            <texturepath></texturepath>
+                        </symbol>
+                    </VectorClassificationItem>
+                </LayerItem>
+            </Model>
+            <ComposerItem width="33" x="8.258660508083146" y="103.5773672055427" rotation="0" height="43.1234375" frame="false" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.906040268456376" positionLock="false">
+                <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+            </ComposerItem>
+        </ComposerLegend>
+        <Composition printResolution="300" paperWidth="210" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="297" printAsRaster="0"/>
+    </Composer>
+    <projectlayers layercount="1">
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>provinces_philippines20110809150356061</id>
+            <datasource>/Users/fool/Documents/Docs/Dissertation/Maps Created/16346/provinces_philippines.shp</datasource>
+            <layername>provinces_philippines</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +no_defs</proj4>
+                    <srsid>3452</srsid>
+                    <srid>4326</srid>
+                    <authid>EPSG:4326</authid>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>true</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <classificationattribute>Cases</classificationattribute>
+            <graduatedsymbol>
+                <mode>Quantile</mode>
+                <classificationfield>Cases</classificationfield>
+                <symbol>
+                    <lowervalue>0</lowervalue>
+                    <uppervalue>0</uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>2</pointsize>
+                    <pointsizeunits>pixels</pointsizeunits>
+                    <rotationclassificationfieldname></rotationclassificationfieldname>
+                    <scaleclassificationfieldname></scaleclassificationfieldname>
+                    <symbolfieldname></symbolfieldname>
+                    <outlinecolor red="0" blue="0" green="0"/>
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>0.26</outlinewidth>
+                    <fillcolor red="255" blue="255" green="255"/>
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>1</lowervalue>
+                    <uppervalue>3</uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>2</pointsize>
+                    <pointsizeunits>pixels</pointsizeunits>
+                    <rotationclassificationfieldname></rotationclassificationfieldname>
+                    <scaleclassificationfieldname></scaleclassificationfieldname>
+                    <symbolfieldname></symbolfieldname>
+                    <outlinecolor red="0" blue="0" green="0"/>
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>0.26</outlinewidth>
+                    <fillcolor red="221" blue="221" green="221"/>
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>4</lowervalue>
+                    <uppervalue>7</uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>2</pointsize>
+                    <pointsizeunits>pixels</pointsizeunits>
+                    <rotationclassificationfieldname></rotationclassificationfieldname>
+                    <scaleclassificationfieldname></scaleclassificationfieldname>
+                    <symbolfieldname></symbolfieldname>
+                    <outlinecolor red="0" blue="0" green="0"/>
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>0.26</outlinewidth>
+                    <fillcolor red="156" blue="156" green="156"/>
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>8</lowervalue>
+                    <uppervalue>13</uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>2</pointsize>
+                    <pointsizeunits>pixels</pointsizeunits>
+                    <rotationclassificationfieldname></rotationclassificationfieldname>
+                    <scaleclassificationfieldname></scaleclassificationfieldname>
+                    <symbolfieldname></symbolfieldname>
+                    <outlinecolor red="0" blue="0" green="0"/>
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>0.26</outlinewidth>
+                    <fillcolor red="76" blue="76" green="76"/>
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>14</lowervalue>
+                    <uppervalue>28</uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>2</pointsize>
+                    <pointsizeunits>pixels</pointsizeunits>
+                    <rotationclassificationfieldname></rotationclassificationfieldname>
+                    <scaleclassificationfieldname></scaleclassificationfieldname>
+                    <symbolfieldname></symbolfieldname>
+                    <outlinecolor red="0" blue="0" green="0"/>
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>0.26</outlinewidth>
+                    <fillcolor red="0" blue="0" green="0"/>
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+            </graduatedsymbol>
+            <customproperties>
+                <property key="labeling" value="pal"/>
+                <property key="labeling/addDirectionSymbol" value="false"/>
+                <property key="labeling/bufferColorB" value="255"/>
+                <property key="labeling/bufferColorG" value="255"/>
+                <property key="labeling/bufferColorR" value="255"/>
+                <property key="labeling/bufferSize" value="0.8"/>
+                <property key="labeling/dataDefinedProperty0" value=""/>
+                <property key="labeling/dataDefinedProperty1" value=""/>
+                <property key="labeling/dataDefinedProperty10" value=""/>
+                <property key="labeling/dataDefinedProperty11" value=""/>
+                <property key="labeling/dataDefinedProperty12" value=""/>
+                <property key="labeling/dataDefinedProperty13" value=""/>
+                <property key="labeling/dataDefinedProperty14" value=""/>
+                <property key="labeling/dataDefinedProperty2" value=""/>
+                <property key="labeling/dataDefinedProperty3" value=""/>
+                <property key="labeling/dataDefinedProperty4" value=""/>
+                <property key="labeling/dataDefinedProperty5" value=""/>
+                <property key="labeling/dataDefinedProperty6" value=""/>
+                <property key="labeling/dataDefinedProperty7" value=""/>
+                <property key="labeling/dataDefinedProperty8" value=""/>
+                <property key="labeling/dataDefinedProperty9" value=""/>
+                <property key="labeling/dist" value="2"/>
+                <property key="labeling/distInMapUnits" value="false"/>
+                <property key="labeling/enabled" value="true"/>
+                <property key="labeling/fieldName" value="PROVINCE"/>
+                <property key="labeling/fontFamily" value="Minion Pro"/>
+                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontSize" value="9"/>
+                <property key="labeling/fontSizeInMapUnits" value="false"/>
+                <property key="labeling/fontStrikeout" value="false"/>
+                <property key="labeling/fontUnderline" value="false"/>
+                <property key="labeling/fontWeight" value="75"/>
+                <property key="labeling/labelPerPart" value="false"/>
+                <property key="labeling/mergeLines" value="false"/>
+                <property key="labeling/minFeatureSize" value="0"/>
+                <property key="labeling/multiLineLabels" value="false"/>
+                <property key="labeling/obstacle" value="true"/>
+                <property key="labeling/placement" value="0"/>
+                <property key="labeling/placementFlags" value="0"/>
+                <property key="labeling/priority" value="5"/>
+                <property key="labeling/scaleMax" value="0"/>
+                <property key="labeling/scaleMin" value="0"/>
+                <property key="labeling/textColorB" value="0"/>
+                <property key="labeling/textColorG" value="0"/>
+                <property key="labeling/textColorR" value="0"/>
+            </customproperties>
+            <displayfield>Z000</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Label"/>
+                <family fieldname="" name="Lucida Grande"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="-3" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <edittypes>
+                <edittype type="0" name="AREA"/>
+                <edittype type="0" name="Cases"/>
+                <edittype type="0" name="HASC_1"/>
+                <edittype type="0" name="NAME_1"/>
+                <edittype type="0" name="PERIMETER"/>
+                <edittype type="0" name="PROVINCE"/>
+                <edittype type="0" name="P_CODE"/>
+                <edittype type="0" name="REGION"/>
+                <edittype type="0" name="Z000"/>
+                <edittype type="0" name="Z001"/>
+                <edittype type="0" name="Z002"/>
+                <edittype type="0" name="Z003"/>
+            </edittypes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+    </projectlayers>
+    <properties>
+        <ScaleBar>
+            <ColorBluePart type="int">0</ColorBluePart>
+            <ColorGreenPart type="int">0</ColorGreenPart>
+            <Enabled type="bool">true</Enabled>
+            <ColorRedPart type="int">0</ColorRedPart>
+            <Placement type="int">2</Placement>
+            <Snapping type="bool">true</Snapping>
+            <Style type="int">0</Style>
+            <PreferredSize type="int">30</PreferredSize>
+        </ScaleBar>
+        <Gui>
+            <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+            <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+            <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+            <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+            <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+            <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+        </Gui>
+        <PositionPrecision>
+            <DecimalPlaces type="int">2</DecimalPlaces>
+            <Automatic type="bool">true</Automatic>
+        </PositionPrecision>
+    </properties>
+</qgis>

@@ -1,0 +1,6 @@
+City,Latitude,Longitude
+Manila,14.599508,120.98422
+Davao,7.064309,125.607778
+Cebu City,10.359176,123.863454
+General Santos City,6.116637,125.166667
+Kiangan,16.783256,121.083333
